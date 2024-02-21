@@ -6,4 +6,4 @@ códigos de projetos desenvolvidos para predição do mercado Diesel B2B nível 
 3. modelagem de dados (SQL, Python) utilizando synapse azure data factory
 4. predições de volumes de consumo futuro de diesel (mercado B2B) com algoritmo PROPHET do Facebook
 
-Projeto desenvolvido com Marcel Quintela - marcel.quintela@avanade.com e equipe multidisciplinar (VIBRA - AVANADE)
+Projeto desenvolvido com equipe multidisciplinar (VIBRA - AVANADE)
